@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: micronautNative
+datasources:
+  default:
+    driverClassName: org.mariadb.jdbc.Driver
+    db-type: mariadb
+    schema-generate: CREATE_DROP
+    dialect: MYSQL
+netty:
+  default:
+    allocator:
+      max-order: 3
