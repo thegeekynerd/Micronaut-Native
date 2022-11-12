@@ -1,4 +1,4 @@
-package com.demo.native;
+package com.demo.nativedemo;
 
 import io.micronaut.runtime.EmbeddedApplication;
 import io.micronaut.test.extensions.junit5.annotation.MicronautTest;

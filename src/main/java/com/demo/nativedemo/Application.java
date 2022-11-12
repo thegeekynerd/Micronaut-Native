@@ -1,4 +1,4 @@
-package com.demo.native;
+package com.demo.nativedemo;
 
 import io.micronaut.runtime.Micronaut;
 
